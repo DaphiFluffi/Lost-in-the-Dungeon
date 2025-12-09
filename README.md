@@ -1,6 +1,7 @@
 # Lost in the Dungeon
-
-![G2-01-final Image 7](https://github.com/user-attachments/assets/1f165f83-a2fe-4e1a-b9dc-0f52f4a97315)
+## Demo
+Click on the Thumbnail for the Demo Video
+[![Game Demo on YouTube](https://github.com/user-attachments/assets/1f165f83-a2fe-4e1a-b9dc-0f52f4a97315)](https://youtu.be/byn6jLGElkI "Lost In The Dungeon Game 2024")  
 
 
 ## Title, Hook, Goals
