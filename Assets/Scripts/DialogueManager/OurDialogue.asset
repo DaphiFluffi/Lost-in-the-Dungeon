@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2263047c522efe646919745e6cfca894, type: 3}
+  m_Name: OurDialogue
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: RYNN
+    sentence: "\u2026 where are we?"
+  - speakerName: ELDRIC
+    sentence: Are you alright?
+  - speakerName: RYNN
+    sentence: "Where\u2019s your flashlight?\r\n"
+  - speakerName: ELDRIC
+    sentence: "\u2026 here (flicker)"
+  - speakerName: RYNN
+    sentence: What do we do now?
+  - speakerName: THOR
+    sentence: "(snaps fingers) Much better. \r"
+  - speakerName: ELDRIC
+    sentence: "Who is this? Hello?\r\r"
+  - speakerName: THOR
+    sentence: "Don't be alarmed, young adventurers. I am Thor, your guide through
+      this perilous journey.\r\n\r\r"
+  - speakerName: ELDRIC
+    sentence: "This can't be real\u2026\r\n"
+  - speakerName: THOR
+    sentence: "Oh, it's very real, Eldric. \n"
+  - speakerName: THOR
+    sentence: And you both have a mission far greater than you realize.
+  - speakerName: RYNN
+    sentence: 'A mission?
+
+'
+  - speakerName: THOR
+    sentence: "You need to find my Hammer, Mj\xF6lnir, before it falls into the wrong
+      hands. My brother Loki hid it from me."
+  - speakerName: THOR
+    sentence: He put a curse on me, that I can't find it. So I have to put my trust
+      in you, young adventurers.
+  - speakerName: RYNN
+    sentence: But... we don't even know where to start.
+  - speakerName: THOR
+    sentence: 'Fear not, for I shall guide you. Your journey begins in the depths
+      of this dungeon. '
+  - speakerName: THOR
+    sentence: "Here, you will encounter many challenges, but there is a tool at your
+      disposal \u2013 the light you carry.\r\n"
+  - speakerName: ELDRIC
+    sentence: 'This flashlight?
+
+'
+  - speakerName: THOR
+    sentence: "Precisely. Use it wisely. Shine it upon mirrors you find along your
+      path. The mirrors will reflect the light, guiding you forward, \r\n"
+  - speakerName: THOR
+    sentence: opening doors, and even vanquishing enemies that lurk in the shadows.
+  - speakerName: THOR
+    sentence: 'Position the mirrors to direct the light where it is needed most. '
+  - speakerName: THOR
+    sentence: 'It will illuminate hidden paths and reveal secrets you would otherwise
+      miss.
+
+'
+  - speakerName: ELDRIC
+    sentence: Alright. Let's go, Rynn. We can do this.
+  - speakerName: RYNN
+    sentence: Yes, together.
+  - speakerName: THOR
+    sentence: "Remember, trust in yourselves and in each other. The journey will
+      be treacherous, but the reward will be worth it. \n"
+  - speakerName: THOR
+    sentence: And beware, not all that glitters is gold...

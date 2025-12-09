@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2263047c522efe646919745e6cfca894, type: 3}
+  m_Name: WinDialogue
+  m_EditorClassIdentifier: 
+  lines:
+  - speakerName: RYNN
+    sentence: I can't believe we actually found it!
+  - speakerName: THOR
+    sentence: "You have done well, young adventurers. You have proven yourselves
+      worthy.\r"
+  - speakerName: THOR
+    sentence: "For your deeds, you will be highly rewarded. Take this gold as a sign
+      of my gratitude. \r\n"
+  - speakerName: ELDRIC
+    sentence: 'We did it, Rynn. Together.
+
+'
+  - speakerName: RYNN
+    sentence: 'Together.
+
+'
+  - speakerName: THOR
+    sentence: 'Farewell, brave adventurers. May your future be filled with light
+      and glory.
+
+'
